@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Today is October 14
-
 <!--
 **albertoastroc/albertoastroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
